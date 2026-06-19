@@ -146,7 +146,7 @@ This design allows direct comparison of classifier performance while controlling
 
 If you use these databases, please cite the associated thesis.
 
-DOI: *to be added after Zenodo deposition*
+DOI: 10.5281/zenodo.20758701
 
 ---
 
