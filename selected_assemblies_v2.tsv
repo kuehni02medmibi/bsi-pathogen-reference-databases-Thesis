@@ -1,0 +1,25 @@
+species_name	taxid	assembly_accession	refseq_category	assembly_level	seq_rel_date	ftp_path
+Staphylococcus aureus	1280	GCF_000013425.1	reference genome	Complete Genome	2006-02-13	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/425/GCF_000013425.1_ASM1342v1/
+Staphylococcus epidermidis	1282	GCF_006094375.1	reference genome	Complete Genome	2019-06-06	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/094/375/GCF_006094375.1_ASM609437v1/
+Staphylococcus haemolyticus	1283	GCF_006094395.1	reference genome	Complete Genome	2019-06-06	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/094/395/GCF_006094395.1_ASM609439v1/
+Staphylococcus hominis	1290	GCF_003812505.1	reference genome	Complete Genome	2018-11-21	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/812/505/GCF_003812505.1_ASM381250v1/
+Staphylococcus capitis	29388	GCF_040739365.1	reference genome	Complete Genome	2024-07-16	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/739/365/GCF_040739365.1_DSM6717/
+Staphylococcus lugdunensis	28035	GCF_001558775.1	reference genome	Complete Genome	2016-02-11	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/558/775/GCF_001558775.1_ASM155877v1/
+Escherichia coli	562	GCF_000008865.2	reference genome	Complete Genome	2018-06-08	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/865/GCF_000008865.2_ASM886v2/
+Klebsiella pneumoniae	573	GCF_000240185.1	reference genome	Complete Genome	2011-12-27	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/240/185/GCF_000240185.1_ASM24018v2/
+Klebsiella oxytoca	571	GCF_900636985.1	reference genome	Complete Genome	2018-12-20	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/636/985/GCF_900636985.1_45889_C01/
+Enterobacter cloacae	550	GCF_905331265.2	reference genome	Complete Genome	2022-05-24	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/905/331/265/GCF_905331265.2_AI2999v1_cpp/
+Citrobacter freundii	546	GCF_904859905.1	reference genome	Complete Genome	2020-11-01	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/904/859/905/GCF_904859905.1_MSB1_1H/
+Serratia marcescens	615	GCF_030291735.1	reference genome	Complete Genome	2023-06-20	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/291/735/GCF_030291735.1_ASM3029173v1/
+Proteus mirabilis	584	GCF_000069965.1	reference genome	Complete Genome	2008-04-03	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/069/965/GCF_000069965.1_ASM6996v1/
+Morganella morganii	582	GCF_006094455.1	reference genome	Complete Genome	2019-06-06	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/094/455/GCF_006094455.1_ASM609445v1/
+Pseudomonas aeruginosa	287	GCF_000006765.1	reference genome	Complete Genome	2006-07-07	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/765/GCF_000006765.1_ASM676v1/
+Acinetobacter baumannii	470	GCF_009035845.1	reference genome	Complete Genome	2019-10-16	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/035/845/GCF_009035845.1_ASM903584v1/
+Enterococcus faecalis	1351	GCF_000393015.1	reference genome	Scaffold	2013-05-14	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/393/015/GCF_000393015.1_Ente_faec_T5_V1/
+Enterococcus faecium	1352	GCF_009734005.1	reference genome	Complete Genome	2020-02-05	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/734/005/GCF_009734005.1_ASM973400v2/
+Streptococcus pneumoniae	1313	GCF_001457635.1	reference genome	Complete Genome	2015-03-22	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/457/635/GCF_001457635.1_NCTC7465/
+Streptococcus pyogenes	1314	GCF_900475035.1	reference genome	Complete Genome	2018-06-17	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/475/035/GCF_900475035.1_41965_F01/
+Streptococcus agalactiae	1311	GCF_001552035.1	reference genome	Complete Genome	2016-02-08	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/552/035/GCF_001552035.1_ASM155203v1/
+Streptococcus dysgalactiae	1334	GCF_016128095.1	reference genome	Complete Genome	2020-12-20	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/128/095/GCF_016128095.1_ASM1612809v1/
+Aggregatibacter aphrophilus	732	GCF_900636915.1	reference genome	Complete Genome	2018-12-20	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/636/915/GCF_900636915.1_45532_F02/
+Homo sapiens	9606	GCF_000001405.40	reference genome	Chromosome	2022-02-03	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/
